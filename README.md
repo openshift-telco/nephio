@@ -12,4 +12,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 # KRM functions for Nephio
 
+- [policy-gen-fn](krm-functions/policy-gen-fn)
 - [siteconfig-gen-fn](krm-functions/siteconfig-gen-fn)
